@@ -17,7 +17,7 @@
 
 ## GIỚI THIỆU MÔN HỌC
 
--   **Tên môn học:** Thị giác máy itnhs
+-   **Tên môn học:** Thị giác máy tính
 -   **Mã môn học:** CS231
 -   **Mã lớp:** CS232.M21
 -   **Năm học:** HK2 (2021 - 2022)
@@ -25,7 +25,7 @@
 
 ## ĐỒ ÁN CUỐI KÌ
 
--   **Tên đề tài**: Inpainting large missing regions based on Seam Carving
+-   **Tên đề tài**: Object removal with Inpainting based on Seam Carving
 -   **Giới thiệu**
     -   Thuật toán **Seam Carving** Seam carving là một thuật toán dùng để thay đổi kích thước hình ảnh, nó được giới thiệu trong bài báo cáo khoa học của S. Avidan & A. Shamir..
     -   Thuật toán **Inpainting** cho phép bạn có thể loại bỏ bất kì các đối tượng không mong muốn chẳng hạn như con người, văn bản, cây cối….
@@ -36,7 +36,7 @@
     ```
     To emulate our project, Following our instruction in jupyter notebook
     <h3 align="center">
-        <a href="https://karhdo.github.io/CS232.M21.KHCL/">DEMO</a>
+        <a href="https://karhdo.github.io/CS231.M21/">DEMO</a>
     </h3>
 
     <img align="center" src="./demo.gif">
