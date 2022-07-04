@@ -39,4 +39,4 @@
         <a href="https://karhdo.github.io/CS232.M21.KHCL/">DEMO</a>
     </h3>
 
-    <img align="center" src="./img/demo.png">
+    <img align="center" src="./demo.gif">
