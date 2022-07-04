@@ -39,7 +39,7 @@
       cd Inpainting-with-seam-carving
     ```
     To emulate our project, following our instruction in jupyter notebook:
-    <h3 align="center">
+    <h3 align="left">
         <a href="https://karhdo.github.io/CS231.M21/">DEMO</a>
     </h3>
     <img align="center" src="./demo.gif">
