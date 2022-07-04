@@ -5,38 +5,36 @@
   </a>
 </p>
 
-<h1 align="center"><b>TÍNH TOÁN ĐA PHƯƠNG TIỆN</b></h>
+<h1 align="center"><b>THỊ GIÁC MÁY TÍNH</b></h>
 
 ## THÀNH VIÊN NHÓM
 
-| STT |   MSSV   |       Họ và Tên |     Chức Vụ |                                                    Github |                  Email |
-| --- | :------: | --------------: | ----------: | --------------------------------------------------------: | ---------------------: |
-| 1   | 19521676 |  Đỗ Trọng Khánh | Nhóm trưởng |   [trong-khanh-1109](https://github.com/trong-khanh-1109) | 19521676@gm.uit.edu.vn |
-| 2   | 19521383 | Võ Phạm Duy Đức |  Thành viên |             [ducducqn123](https://github.com/ducducqn123) | 19521383@gm.uit.edu.vn |
-| 3   | 19521326 | Trịnh Công Danh |  Thành viên | [danhtrinh15092001](https://github.com/danhtrinh15092001) | 19521326@gm.uit.edu.vn |
+| STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
+| ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
+| 1      | 20520781      | Lê Việt Thịnh          |     https://github.com/levietthinh                                           |20520781@gm.uit.edu.vn   |
+| 2      | 20521597      | Đinh Nhật Minh         |https://github.com/Banhkun	                        |20521597@gm.uit.edu.vn   |
+| 3      | 20521424      | Văn Nguyễn Ngọc Huyền  |https://github.com/ngochuynnuit |20521424@gm.uit.edu.vn   |
 
 ## GIỚI THIỆU MÔN HỌC
 
--   **Tên môn học:** Tính toán đa phương tiện
--   **Mã môn học:** CS232
--   **Mã lớp:** CS232.M21.KHCL
+-   **Tên môn học:** Thị giác máy itnhs
+-   **Mã môn học:** CS231
+-   **Mã lớp:** CS232.M21
 -   **Năm học:** HK2 (2021 - 2022)
--   **Giảng viên**: TS.Đỗ Văn Tiến
+-   **Giảng viên**: TS.Nguyễn Vĩnh Tiệp
 
 ## ĐỒ ÁN CUỐI KÌ
 
--   **Tên đề tài**: Nén dữ liệu text sử dụng thuật toán **Huffman** and **Shanon Fano.**
+-   **Tên đề tài**: Inpainting large missing regions based on Seam Carving
 -   **Giới thiệu**
-    -   Thuật toán **Huffman** là một thuật toán có tiền tố tối ưu cụ thể thường được sử dụng để nén dữ liệu không mất mát.
-    -   Thuật toán **Shannon Fano** là một kỹ thuật mã hóa entropy để nén dữ liệu không mất mát của tính toán đa phương tiện.
+    -   Thuật toán **Seam Carving** Seam carving là một thuật toán dùng để thay đổi kích thước hình ảnh, nó được giới thiệu trong bài báo cáo khoa học của S. Avidan & A. Shamir..
+    -   Thuật toán **Inpainting** cho phép bạn có thể loại bỏ bất kì các đối tượng không mong muốn chẳng hạn như con người, văn bản, cây cối….
 -   **Hướng dẫn cài đặt**
     ```bash
-      git clone https://github.com/Karhdo/CS232.M21.KHCL.git
-      cd CS232.M21.KHCL
-      npm install
-      npm run build
+      git clone https://github.com/Banhkun/Inpainting-with-seam-carving
+      cd Inpainting-with-seam-carving
     ```
-
+    To emulate our project, Following our instruction in jupyter notebook
     <h3 align="center">
         <a href="https://karhdo.github.io/CS232.M21.KHCL/">DEMO</a>
     </h3>
