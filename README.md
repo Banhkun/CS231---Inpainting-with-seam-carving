@@ -11,9 +11,11 @@
 
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 20520781      | Lê Việt Thịnh          |     https://github.com/levietthinh                                           |20520781@gm.uit.edu.vn   |
-| 2      | 20521597      | Đinh Nhật Minh         |https://github.com/Banhkun	                        |20521597@gm.uit.edu.vn   |
-| 3      | 20521424      | Văn Nguyễn Ngọc Huyền (nhóm trưởng)  |https://github.com/ngochuynnuit |20521424@gm.uit.edu.vn   |
+| 1      | 20521424      | Văn Nguyễn Ngọc Huyền (nhóm trưởng)  |https://github.com/ngochuynnuit |20521424@gm.uit.edu.vn   |
+| 2      | 20520781      | Lê Việt Thịnh          |     https://github.com/levietthinh                                           |20520781@gm.uit.edu.vn   |
+| 3      | 20521597      | Đinh Nhật Minh         |https://github.com/Banhkun	                        |20521597@gm.uit.edu.vn   |
+| 4      | 20520731      | Trần Thị Mỹ Quyên |https://github.com/AzaleaBrowns |20520731@gm.uit.edu.vn   |
+
 
 ## GIỚI THIỆU MÔN HỌC
 
