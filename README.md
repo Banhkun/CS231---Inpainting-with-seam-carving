@@ -30,16 +30,16 @@
 
 -   **Tên đề tài**: Object removal with Inpainting based on Seam Carving
 -   **Giới thiệu**
-    -   Thuật toán **Seam Carving** Seam carving là một thuật toán dùng để thay đổi kích thước hình ảnh, nó được giới thiệu trong bài báo cáo khoa học của S. Avidan & A. Shamir..
-    -   Thuật toán **Inpainting** cho phép bạn có thể loại bỏ bất kì các đối tượng không mong muốn chẳng hạn như con người, văn bản, cây cối….
+    -   Thuật toán **Seam Carving** là một thuật toán hỗ trợ thay đổi kích thước hình ảnh mà không gây biến dạng vật thể chính, được giới thiệu trong bài báo khoa học của S. Avidan & A. Shamir.
+    -   Thuật toán **Inpainting** là thuật toán hỗ trợ tác vụ loại bỏ đối tượng không mong muốn khỏi hình ảnh, chẳng hạn như con người, văn bản, cây cối…
+    -   Đồ án này thực nghiệm kết hợp hai thuật toán tối ưu trên để giải quyết tác vụ xóa bỏ vật thể (Object Removal) trong hình ảnh.
 -   **Hướng dẫn cài đặt**
     ```bash
       git clone https://github.com/Banhkun/Inpainting-with-seam-carving
       cd Inpainting-with-seam-carving
     ```
-    To emulate our project, Following our instruction in jupyter notebook
+    To emulate our project, following our instruction in jupyter notebook:
     <h3 align="center">
         <a href="https://karhdo.github.io/CS231.M21/">DEMO</a>
     </h3>
-
     <img align="center" src="./demo.gif">
